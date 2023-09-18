@@ -1,6 +1,6 @@
-# holbertonschool-web_front_end
+# holbertonschool-javascript-coding
 
 <ol>
-<li>html_advanced</li>
-<li>css_advanced </li>
+<li>javascript-web_scraping</li>
+<li></li>
 </ol>
