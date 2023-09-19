@@ -7,5 +7,5 @@ fs.readFile(process.argv[2], "utf8", (error, data) => {
         console.error(`${error}`);
         return;
     }
-    console.log(data)
+    console.log(data);
 });
