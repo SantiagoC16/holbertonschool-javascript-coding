@@ -12,8 +12,7 @@ request(process.argv[2], (error, response, data) => {
     if (task.completed) {
       if (dict[task.userId]) {
         dict[task.userId]++;
-      }
-      else {
+      } else {
         dict[task.userId] = 1;
       }
     }
